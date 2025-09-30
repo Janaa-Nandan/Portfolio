@@ -262,7 +262,7 @@ class ProjectModal {
                 <a href="${project.github}" target="_blank" class="btn btn-secondary" style="text-decoration: none;">
                     <i class="fab fa-git-alt" style="font-size: 1.5rem; margin-right: 8px; margin-bottom : 2px;"></i>View Code
                 </a>
-                ${project.live 
+                ${project.live && project.live.trim() !== '' 
                     ? `<a href="${project.live}" target="_blank" class="btn btn-secondary" style="text-decoration: none;">
                            <i class="fas fa-external-link-alt" style="margin-right: 8px;"></i>Sample
                        </a>` 
