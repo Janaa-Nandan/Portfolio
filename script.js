@@ -239,8 +239,9 @@ class ProjectModal {
 
         const project = projects[projectId];
         if (!project) return '<p>Project not found.</p>';
-        projects.forEach(p => console.log(p.title, p.live));
+        console.log(project)
         console.log(projects);
+        console.log(project.live);
         return `
             <h2 style="margin-bottom: 16px; color: var(--text-primary);">${project.title}</h2>
             <p style="margin-bottom: 24px; color: var(--text-secondary); font-size: 18px;">${project.description}</p>
