@@ -194,7 +194,7 @@ class ProjectModal {
                     'Connection pooling for optimized performance'
                 ],                
                 technologies: ['Java (Used Generics & Reflection)', 'JDBC', 'DBMS'],
-                github: 'https://workdrive.zoho.in/folder/23sku05ea3a32c6bf46d39bd3f20e9c5c00da',
+                github: 'https://workdrive.zoho.in/folder/23sku05ea3a32c6bf46d39bd3f20e9c5c00da'
             },
             '2': {
                 title: 'ZIET',
@@ -219,8 +219,7 @@ class ProjectModal {
                     "Dynamic image updation to suit the angle of the snake's head, body, and tail",
                 ],
                 technologies: ['Swift', 'MacOS Cocoa Framework'],
-                github: 'https://workdrive.zoho.in/folder/4yfvbf84b0f1dd00842bfbf77ad845eaea282',
-                live: ''
+                github: 'https://workdrive.zoho.in/folder/4yfvbf84b0f1dd00842bfbf77ad845eaea282'
             },
             '4': {
                 title: 'Trigonometry Visualization Animation',
