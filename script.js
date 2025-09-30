@@ -234,7 +234,7 @@ class ProjectModal {
                 ],
                 technologies: ['Python', 'Manim Library', 'Mathematics'],
                 github: 'https://workdrive.zoho.in/file/jaocwd5e07e0472c243bdae52ec48d646b962',
-                live: ''
+                live: 'https://workdrive.zoho.in/file/mqrrnf65f9729dadb41ff8026db0fa82031f3'
             }
         };
 
