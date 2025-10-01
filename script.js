@@ -194,7 +194,7 @@ class ProjectModal {
                     'Connection pooling for optimized performance'
                 ],                
                 technologies: ['Java (Used Generics & Reflection)', 'JDBC', 'DBMS'],
-                github: 'https://workdrive.zoho.in/folder/23sku05ea3a32c6bf46d39bd3f20e9c5c00da'
+                github: 'https://workdrive.zohopublic.in/external/f2775e4c464ce91edbcfae4f03137f81ef17f9e75a8dceb6d7f253110dec946a'
             },
             '2': {
                 title: 'ZIET',
@@ -208,8 +208,8 @@ class ProjectModal {
                     'Backend made as Rest-API'
                 ],
                 technologies: ['Java', 'Javascript', 'Deluge', 'Zoho Creator', 'MySQL', 'My Database Util jar', 'Zoho APIs'],
-                github: 'https://workdrive.zoho.in/folder/23sku5088222848c34a4786f69afdc625423b',
-                live: 'https://workdrive.zoho.in/folder/zd2py264481c31dd5491face2f0e4b6507ae4'
+                github: 'https://workdrive.zohopublic.in/external/7c952aeca4a1c0b2b278e9092a3d11b48f90afe34f7fcb337ba9cc2c19510557',
+                live: 'https://workdrive.zohopublic.in/external/7c952aeca4a1c0b2b278e9092a3d11b48f90afe34f7fcb337ba9cc2c19510557'
             },
             '3': {
                 title: 'Snake Game',
@@ -219,7 +219,7 @@ class ProjectModal {
                     "Dynamic image updation to suit the angle of the snake's head, body, and tail",
                 ],
                 technologies: ['Swift', 'MacOS Cocoa Framework'],
-                github: 'https://workdrive.zoho.in/folder/4yfvbf84b0f1dd00842bfbf77ad845eaea282'
+                github: 'https://workdrive.zohopublic.in/external/2dcc7b6cad9985f396b581ddd25b7442ddf0e3baa6ad9d2594f994de61c87687'
             },
             '4': {
                 title: 'Trigonometry Visualization Animation',
@@ -232,8 +232,8 @@ class ProjectModal {
                     'Clear mathematical labeling and annotations'
                 ],
                 technologies: ['Python', 'Manim Library', 'Mathematics'],
-                github: 'https://workdrive.zoho.in/file/jaocwd5e07e0472c243bdae52ec48d646b962',
-                live: 'https://workdrive.zoho.in/file/mqrrnf65f9729dadb41ff8026db0fa82031f3'
+                github: 'https://workdrive.zohopublic.in/external/68210277d0691d75ca36cc304fdf92e20613ba0b9f65f234bc607a3337cd1663',
+                live: 'https://workdrive.zohopublic.in/external/231d2075667c71356e322fcafb600c05986f23af6ec56ea834a592287426da56'
             }
         };
 
