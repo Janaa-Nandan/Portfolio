@@ -184,8 +184,8 @@ class ProjectModal {
     getProjectContent(projectId) {
         const projects = {
             '1': {
-                title: 'Database Utility Jar',
-                description: 'A lightweight and versatile database utility for simplifying data access and management.',
+                title: 'Database Utility Tool',
+                description: 'A lightweight and versatile database utility framework for simplifying data access and management.',
                 features: [
                     'Database connectivity using JDBC',
                     'Support for multiple database engines (MySQL, PostgreSQL, SQLite)',
@@ -207,7 +207,7 @@ class ProjectModal {
                     'Website to view analytics and history and to update already given user details',
                     'Backend made as Rest-API'
                 ],
-                technologies: ['Java', 'Javascript', 'Deluge', 'Zoho Creator', 'MySQL', 'My Database Util jar', 'Zoho APIs'],
+                technologies: ['Java', 'Javascript', 'Deluge', 'Zoho Creator', 'MySQL', 'My Database Util framework', 'Zoho APIs'],
                 github: 'https://workdrive.zohopublic.in/external/7c952aeca4a1c0b2b278e9092a3d11b48f90afe34f7fcb337ba9cc2c19510557',
                 live: 'https://workdrive.zohopublic.in/external/7c952aeca4a1c0b2b278e9092a3d11b48f90afe34f7fcb337ba9cc2c19510557'
             },
@@ -222,7 +222,7 @@ class ProjectModal {
                 github: 'https://workdrive.zohopublic.in/external/2dcc7b6cad9985f396b581ddd25b7442ddf0e3baa6ad9d2594f994de61c87687'
             },
             '4': {
-                title: 'Trigonometry Visualization Animation',
+                title: 'Trigonometry Animation',
                 description: 'An animation video created using Manim (A python animations library) to help visualize trigonometric functions',
                 features: [
                     'Visualization of sine and cosine functions',
