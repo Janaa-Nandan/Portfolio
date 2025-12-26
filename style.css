@@ -409,8 +409,7 @@ section {
 }
 
 .about-content {
-    display: grid;
-    grid-template-columns: 2fr 1fr;
+    display: flex;
     gap: var(--spacing-3xl);
     align-items: center;
 }
