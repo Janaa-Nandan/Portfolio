@@ -865,7 +865,6 @@ section {
     }
 
     .about-content {
-        grid-template-columns: 1fr;
         text-align: center;
     }
 
