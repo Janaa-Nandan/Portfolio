@@ -611,9 +611,9 @@ section {
 
 /* Contact Section */
 .contact-content {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: var(--spacing-3xl);
+    display: flex;
+    /* grid-template-columns: 1fr 1fr; */
+    /* gap: var(--spacing-3xl); */
 }
 
 .contact-info h3 {
