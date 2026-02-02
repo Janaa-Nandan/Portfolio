@@ -630,7 +630,7 @@ section {
 }
 
 .contact-methods {
-    margin-right: var(--spacing-2xl);
+    margin-bottom: var(--spacing-2xl);
 }
 
 .contact-method {
